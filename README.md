@@ -1,2 +1,1 @@
-"# Alumni-Tracker" 
-"# Alumni-Tracker" 
+"# AlumniTracker" 
