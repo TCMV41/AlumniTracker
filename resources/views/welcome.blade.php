@@ -36,8 +36,8 @@
                 </div>
 
                 <div class="links">
-                    <a href="/public">Public Records</a>
-                    <a href="/home">Full Records</a>
+                    <a href="/public/public">Public Records</a>
+                    <a href="/public/home">Full Records</a>
                     <a href="http://sta.uwi.edu/fst/dcit/index.asp">DCIT Homepage</a>
        
                 </div>           
