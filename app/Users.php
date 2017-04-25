@@ -8,7 +8,7 @@ use Serverfireteam\Panel\ObservantTrait;
 class Users extends Model {
 	use ObservantTrait;
 	
-    protected $table = 'users';
+    protected $table = 'Users';
     protected $id='id';
     protected $country='country';
     protected $yearGraduated='yearGraduated';
